@@ -12,4 +12,4 @@ SELECT
 	MAX(pl) AS largest_winning_trade,
 	MIN(pl) AS largest_losing_trade,
 	SUM(position_value) AS Total_pos_value
-FROM bi.calculate_separate_profit_loss_bi('2023-08-14', '2023-08-17', 500, 10, ARRAY['AENZ', 'ALC', 'ALE', 'A']);
+FROM bi.calculate_separate_profit_loss('2023-08-14', '2023-08-17', 500, 10, ARRAY['AENZ', 'ALC', 'ALE', 'A']);
