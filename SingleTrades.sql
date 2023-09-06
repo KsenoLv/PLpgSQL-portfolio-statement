@@ -60,3 +60,5 @@ BEGIN
         buy.symbols;
 END;
 $$ LANGUAGE plpgsql;
+
+SELECT * FROM bi.calculate_separate_profit_loss_bi('2023-08-14', '2023-08-17', 500, 100, ARRAY['ALL_T']);
