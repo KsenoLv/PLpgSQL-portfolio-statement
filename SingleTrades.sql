@@ -1,4 +1,7 @@
-CREATE OR REPLACE FUNCTION bi.calculate_separate_profit_loss_bi(
+-- This function allows you to analyse each trade!
+-- Detailed description on my page: https://psql.pro/analyzing-stock-trades-single/
+
+CREATE OR REPLACE FUNCTION bi.calculate_separate_profit_loss(
     buy_date_param DATE,
     sell_date_param DATE,
 	deposit NUMERIC DEFAULT 10000,
@@ -61,4 +64,6 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-SELECT * FROM bi.calculate_separate_profit_loss_bi('2023-08-14', '2023-08-17', 500, 100, ARRAY['ALL_T']);
+--
+
+SELECT * FROM bi.calculate_separate_profit_loss('2023-08-14', '2023-08-17', 500, 100, ARRAY['ALL_T']);
