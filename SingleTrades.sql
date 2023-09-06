@@ -66,4 +66,11 @@ $$ LANGUAGE plpgsql;
 
 --
 
-SELECT * FROM bi.calculate_separate_profit_loss('2023-08-14', '2023-08-17', 500, 100, ARRAY['ALL_T']);
+SELECT * FROM bi.calculate_separate_profit_loss
+(
+	'2023-08-14' 	    -- Buy date.
+	,'2023-08-17' 	    -- Sell date.
+	,500 		    -- Starting deposit.
+	,10 		    -- Number of shares, for each trade.
+	,ARRAY['AENZ', 'A'] -- Tickers. ALL_T - returns all NYSE tickers (more then 2500).
+);
