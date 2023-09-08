@@ -55,7 +55,7 @@ Discover key metrics to navigate your trading strategy:
 
 12. **Max Drawdown (Money and Percentage):** Learn about the biggest dip in your investment value, both in dollars and as a percentage.
 
-Customize your analysis by setting dates and choosing which stocks to include. This approach empowers you to make smarter decisions about your trading strategy. Remember, knowledge is your best asset in trading!
+Customize your analysis by setting dates, choosing which stocks to include, and manually entering deposit, position values, and tickers. This approach empowers you to make smarter decisions about your trading strategy. Remember, knowledge is your best asset in trading!
 
 ## Important Note
 To use this function, ensure that your data table structure matches the one described above (Date, Symbols, Open, High, Low, Close). If your columns have different names, you may need to adjust the script accordingly.
