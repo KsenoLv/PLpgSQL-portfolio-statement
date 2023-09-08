@@ -59,6 +59,15 @@ Discover key metrics to navigate your trading strategy:
 
 Customize your analysis by setting dates and choosing which stocks to include. This approach empowers you to make smarter decisions about your trading strategy. Remember, knowledge is your best asset in trading!
 
+## Important Note
+To use this function, ensure that your data table structure matches the one described above (Date, Symbol, Open, High, Low, Close). If your columns have different names, you may need to adjust the script accordingly.
+
+| Date       | Symbol | Open  | High  | Low   | Close | ... |
+|------------|--------|-------|-------|-------|-------|-----|
+| 2023-09-01 | AAPL   | 150.0 | 155.0 | 149.5 | 154.2 | ... |
+| 2023-09-02 | GOOG   | 2700.0| 2750.0| 2685.0| 2735.0| ... |
+| ...        | ...    | ...   | ...   | ...   | ...   | ... |
+
 ## Get Started
 Ready to uncover your trading performance? Dive into your data and start analyzing. Happy trading!
 
