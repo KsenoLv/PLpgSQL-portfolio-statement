@@ -77,7 +77,7 @@ I am in Latvia, Riga.<br>
 Phone: +371 29720407<br>
 Email: ksenofontov.mihail@gmail.com<br>
 Telegram: https://t.me/psqlpro<br>
-WhatsApp: https://wa.me/+37129720407
-WWW: www.psql.pro
+WhatsApp: https://wa.me/+37129720407<br>
+Web: www.psql.pro
 
 
