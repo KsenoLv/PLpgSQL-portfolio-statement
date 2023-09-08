@@ -6,6 +6,8 @@
 Welcome to PostgreSQL's bi.calculate_separate_profit_loss repository! In this space, we simplify the process of understanding how well your stock trades are performing using the powerful PostgreSQL database system.
 
 **Get Started:** [[Link to your GitHub repository](https://github.com/KsenoLv/PLpgSQL-portfolio-statement.)]
+**Article:** [[Detailed information regarding SingleTrade.sql]([https://github.com/KsenoLv/PLpgSQL-portfolio-statement.](https://psql.pro/analyzing-stock-trades-single/))]
+**Article:** [[Detailed information regarding TotalPortfolio.sql]([https://github.com/KsenoLv/PLpgSQL-portfolio-statement.](https://psql.pro/analyzing-stock-tradestotal/))]
 
 ## What Does the Function Do?
 This PostgreSQL function is your financial sidekick, helping you analyze your stock trades effortlessly:
