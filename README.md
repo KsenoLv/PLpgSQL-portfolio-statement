@@ -1,4 +1,4 @@
-# PostgreSQL's bi.calculate_separate_profit_loss
+# Unlock the Power of PostgreSQL in Finance!
 
 📈 **Analyzing Your Stock Trades Made Easy!** 📉
 
