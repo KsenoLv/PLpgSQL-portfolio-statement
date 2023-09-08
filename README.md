@@ -58,4 +58,12 @@ Customize your analysis by setting dates and choosing which stocks to include. T
 ## Get Started
 Ready to uncover your trading performance? Dive into your data and start analyzing. Happy trading!
 
+## Contact Information
+
+I am in Latvia, Riga.<br>
+Phone: +371 29720407<br>
+Email: ksenofontov.mihail@gmail.com<br>
+Telegram: https://t.me/psqlpro<br>
+WhatsApp: https://wa.me/+37129720407
+
 
