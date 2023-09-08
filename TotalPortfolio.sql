@@ -1,3 +1,7 @@
+-- This function allows your strategy in TOTAL. 
+-- If you want to analyze each trade, chose GingleTrade.sql function.
+-- Detailed description on my page: https://psql.pro/analyzing-stock-tradestotal/
+
 SELECT 
 	COUNT(*) AS Total_trades, 
 	SUM(pl) AS total_net_profit,
