@@ -49,6 +49,10 @@ Discover key metrics to navigate your trading strategy:
 
 10. **Portfolio Size:** See the size of your investment.
 
+11. **Max High and Min Low:** Discover the highest and lowest points your stocks reached during trading.
+
+12. **Max Drawdown (Money and Percentage):** Learn about the biggest dip in your investment value, both in dollars and as a percentage.
+
 Customize your analysis by setting dates and choosing which stocks to include. This approach empowers you to make smarter decisions about your trading strategy. Remember, knowledge is your best asset in trading!
 
 ## Get Started
